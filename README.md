@@ -1,1 +1,1 @@
-All handlers + yaml files go here.
+Run Python code from Google Docs. Available at http://docs-code.appspot.com/ .

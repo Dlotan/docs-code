@@ -1,2 +1,1 @@
-Run Python code from Google docs in the Browser. 
-Available at http://docs-code.appspot.com/ .
+Templates that get rendered by the jinja2 engine.
